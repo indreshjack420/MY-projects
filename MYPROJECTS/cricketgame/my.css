@@ -1,0 +1,19 @@
+body{text-align: center;}
+.cb{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	background-color: ghostwhite;
+	border-radius: 60px;
+	cursor: pointer;
+	border-color: black;
+	
+
+
+}
+.cimg{
+	height: 68px;
+
+	
+}
+
